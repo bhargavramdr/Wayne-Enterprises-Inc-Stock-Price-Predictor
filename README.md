@@ -6,5 +6,5 @@ About 97 accurate predictor of  next five days stock trend. Deployed using Flask
 So, We are going to build him a predictor which will let him know the trend of his stocks for next days.**
 
 
-**In this project we take the last five days stock as a basis to project the next five days trend.**
+**In this project we take the last five days stock trend as a basis to project the next five days trend.**
 

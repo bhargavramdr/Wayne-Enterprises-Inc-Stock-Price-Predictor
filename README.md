@@ -8,3 +8,7 @@ So, We are going to build him a predictor which will let him know the trend of h
 
 **In this project we take the last five days stock trend as a basis to project the next five days trend.**
 
+
+Here's how the site looks:
+
+![Screenshot (97)](https://user-images.githubusercontent.com/72303641/137005982-bf24eff7-fd50-4d18-8e35-c259743dfb73.png)

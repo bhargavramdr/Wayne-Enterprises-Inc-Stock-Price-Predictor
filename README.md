@@ -31,7 +31,7 @@ Now I will write a function that will prepare the dataset so that we can fit it 
 Now I will split the data and fit into the linear regression model:**
  ![image](https://user-images.githubusercontent.com/72303641/138639246-922921d7-0642-4ea0-b766-0033c535c5ce.png)
 
-
+		
 **Now let’s predict the output and have a look at the prices of the stock prices:**
 
 ![image](https://user-images.githubusercontent.com/72303641/138639270-c43c4cbe-0803-45f8-b192-1d7608b73927.png)

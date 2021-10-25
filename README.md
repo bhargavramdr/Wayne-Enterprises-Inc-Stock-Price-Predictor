@@ -24,7 +24,7 @@ Now I will write a function that will prepare the dataset so that we can fit it 
  ![image](https://user-images.githubusercontent.com/72303641/138639124-75e682ba-4e0e-4393-9e13-253528e9b93d.png)
 
 
-**We are using NIFTY – 50 data. For fun I had changed it to Wayne stock data.**
+**We are using NIFTY – 50 data. For fun, I have changed it's name to Wayne stock data.**
 
 
 **Applying Machine Learning for Stock Price Prediction
@@ -36,5 +36,5 @@ Now I will split the data and fit into the linear regression model:**
 
 ![image](https://user-images.githubusercontent.com/72303641/138639270-c43c4cbe-0803-45f8-b192-1d7608b73927.png)
 
-
+**Accuracy of 97 percent is not bad at all.**
 

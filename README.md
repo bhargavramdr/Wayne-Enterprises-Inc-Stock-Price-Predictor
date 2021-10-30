@@ -30,7 +30,7 @@ Here's how the site looks:
 
 
 ## Applying Machine Learning for Stock Price Prediction
-**Now I will split the data and fit into the linear regression model:**
+**Now I will split the data and fit into the linear regression model: **
 
 ![image](https://user-images.githubusercontent.com/72303641/138639246-922921d7-0642-4ea0-b766-0033c535c5ce.png)
 
